@@ -1,0 +1,1 @@
+g++ luaavg.cpp -llua5.2 -I/usr/include/lua5.2 -o luaavg

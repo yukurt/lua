@@ -1,1 +1,1 @@
-# lua
+Collection of Lua examples
