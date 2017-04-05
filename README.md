@@ -1,4 +1,4 @@
-Collection of Lua examples
+# Collection of Lua examples
 
 * calling_c_from_lua
   * avg - example of Lua calling a C++ function
