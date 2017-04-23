@@ -5,4 +5,7 @@
   * avg_lib - same example as avg but the C++ function is saved as a library which is loaded by the Lua script
   * sin
     * example of C function saved as a library which is loaded by the Lua script
-	* uses style mentioned by Ierusalimschy in chapter 27.1 of "Programming in Lua" (3rd edition)
+    * uses style mentioned by Ierusalimschy in chapter 27.1 of "Programming in Lua" (3rd edition)
+  * dump
+    * example of printing the arguments of a C function called from Lua
+    * adapted from Ierusalimschy in Listing 25.2 of "Programming in Lua" (3rd edition)
