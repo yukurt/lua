@@ -9,3 +9,10 @@
   * dump
     * example of printing the arguments of a C function called from Lua
     * adapted from Ierusalimschy in Listing 25.2 of "Programming in Lua" (3rd edition)
+  * play_stack
+    * example of manipulating the stack that is used for communication between C and Lua
+    * adapted from Ierusalimschy in Listing 25.3 of "Programming in Lua" (3rd edition)
+  * exercise25p2
+    * demonstration of Exercise 25.2 of "Programming in Lua" (3rd edition)
+    * the exercise asks what the stack will look like after a series of stack operations
+	
