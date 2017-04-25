@@ -3,7 +3,7 @@
 * calling_c_from_lua
   * interpreter
     * a simple standalone Lua interpreter
-    * adapter from Ierusalimschy in Listing 25.1 of "Programming in Lua" (3rd edition)
+    * adapted from Ierusalimschy in Listing 25.1 of "Programming in Lua" (3rd edition)
   * avg - example of Lua calling a C++ function
   * avg_lib - same example as avg but the C++ function is saved as a library which is loaded by the Lua script
   * sin
@@ -18,4 +18,7 @@
   * exercise25p2
     * demonstration of Exercise 25.2 of "Programming in Lua" (3rd edition)
     * the exercise asks what the stack will look like after a series of stack operations
-	
+* calling_lua_from_c
+  * listing26p1
+    * example of reading a Lua file from C
+	* adapted from Ierusalimschy in Listing 26.1 of "Programming in Lua" (3rd edition)
