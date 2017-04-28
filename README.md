@@ -37,4 +37,6 @@
   * listing26p4
     * example of calling a Lua function from C using lua_pcall()
 	* adapted from Ierusalimschy in Listing 26.4 of "Programming in Lua" (3rd edition)
-	
+  * generic_call_function
+    * example of using a generic function to call any Lua function from C
+	* adapted from Ierusalimschy in Chapter 26.4 of "Programming in Lua" (3rd edition)
