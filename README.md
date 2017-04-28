@@ -22,3 +22,13 @@
   * listing26p1
     * example of reading a Lua file from C
 	* adapted from Ierusalimschy in Listing 26.1 of "Programming in Lua" (3rd edition)
+  * listing26p2
+    * example of reading a table from a Lua file from C
+	* adapted from Ierusalimschy in Listing 26.2 of "Programming in Lua" (3rd edition)
+  * color_names
+    * example of exporting a C table (struct array) to Lua
+	* adapted from Ierusalimschy in Chapter 26.2 of "Programming in Lua" (3rd edition)
+  * listing26p3
+    * example of reading a table from a Lua file from C, and referring to a struct array in C from Lua
+	* adapted from Ierusalimschy in Listing 26.3 of "Programming in Lua" (3rd edition)
+	
