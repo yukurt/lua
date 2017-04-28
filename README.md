@@ -24,11 +24,17 @@
 	* adapted from Ierusalimschy in Listing 26.1 of "Programming in Lua" (3rd edition)
   * listing26p2
     * example of reading a table from a Lua file from C
+	* this example uses lua_gettable()
 	* adapted from Ierusalimschy in Listing 26.2 of "Programming in Lua" (3rd edition)
   * color_names
     * example of exporting a C table (struct array) to Lua
+	* this example uses lua_settable()
 	* adapted from Ierusalimschy in Chapter 26.2 of "Programming in Lua" (3rd edition)
   * listing26p3
     * example of reading a table from a Lua file from C, and referring to a struct array in C from Lua
+	* this example uses lua_getfield()
 	* adapted from Ierusalimschy in Listing 26.3 of "Programming in Lua" (3rd edition)
+  * listing26p4
+    * example of calling a Lua function from C using lua_pcall()
+	* adapted from Ierusalimschy in Listing 26.4 of "Programming in Lua" (3rd edition)
 	
