@@ -40,3 +40,11 @@
   * generic_call_function
     * example of using a generic function to call any Lua function from C
 	* adapted from Ierusalimschy in Chapter 26.4 of "Programming in Lua" (3rd edition)
+* swig
+  * example
+    * example of using SWIG for Lua
+	* written in C
+  * example_h
+    * example of using SWIG for Lua using a C header file
+  * example_cpp
+    * example of using SWIG for Lua using C++
