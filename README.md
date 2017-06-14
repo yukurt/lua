@@ -44,7 +44,10 @@
   * example
     * example of using SWIG for Lua
 	* written in C
+	* https://nonbonding.blogspot.com/2017/06/compiling-and-running-swig-for-lua-in.html
   * example_h
     * example of using SWIG for Lua using a C header file
+	* https://nonbonding.blogspot.com/2017/06/compiling-and-running-swig-for-lua-in_14.html
   * example_cpp
     * example of using SWIG for Lua using C++
+	* https://nonbonding.blogspot.com/2017/06/compiling-and-running-swig-for-lua-in_97.html
