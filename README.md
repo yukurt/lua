@@ -56,4 +56,4 @@
 	* https://nonbonding.blogspot.com/2017/06/swig-for-lua-class-demonstration.html
   * reflection_cpp
     * demonstrates how to inspect the contents of a C++ struct from Lua
-	* https://nonbonding.blogspot.com/2017/06/swig-for-lua-class-demonstration.html
+	* https://nonbonding.blogspot.com/2017/06/swig-for-lua-reflection.html
