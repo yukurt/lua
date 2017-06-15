@@ -51,3 +51,9 @@
   * example_cpp
     * example of using SWIG for Lua using C++
 	* https://nonbonding.blogspot.com/2017/06/compiling-and-running-swig-for-lua-in_97.html
+  * class
+    * demonstrates how to expose a class to Lua
+	* https://nonbonding.blogspot.com/2017/06/swig-for-lua-class-demonstration.html
+  * reflection_cpp
+    * demonstrates how to inspect the contents of a C++ struct from Lua
+	* https://nonbonding.blogspot.com/2017/06/swig-for-lua-class-demonstration.html
